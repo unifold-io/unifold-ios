@@ -17,8 +17,8 @@ let package = Package(
     targets: [
        .binaryTarget(
             name: "UnifoldSDK",
-            url: "https://github.com/unifold-io/unifold-ios/releases/download/0.1.31-beta.3/UnifoldSDK.xcframework.zip",
-            checksum: "19ba7e642f71524e91ee236f00ef5e46a3d404fce17113335d3b07d605bcaf5d"
+            url: "https://github.com/unifold-io/unifold-ios/releases/download/0.1.31-beta.4/UnifoldSDK.xcframework.zip",
+            checksum: "3055e1c7fd7ab0a9e2bbfb39ad53e3741954a1cecf902a8b276da7bd49418d69"
         )
     ]
 )
