@@ -23,8 +23,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "UnifoldSDK",
-            url: "https://github.com/unifold-io/unifold-ios/releases/download/0.1.49-beta.1/UnifoldSDK.xcframework.zip",
-            checksum: "2e80e58002c744257409f50db237ce894476f043b594d9a12e0a84e0e7131dbc"
+            url: "https://github.com/unifold-io/unifold-ios/releases/download/0.1.49/UnifoldSDK.xcframework.zip",
+            checksum: "1783d38b233d2cdb50ff3448d55e7c3d64c21c78ea3c912bb9e9aa883ca9aac2"
         ),
         // Binary targets can't declare dependencies; this target carries them
         // into the `UnifoldSDK` product.
